@@ -2,6 +2,9 @@
 
 This Python code demonstrates the application of fuzzy logic to enhance network traffic routing with Quality of Service (QoS) considerations. The code simulates a network scenario and compares the performance of conventional routing (no fuzzy logic applied) with fuzzy logic enhanced routing.
 
+## Motivating Work
+Yocam, E. W. (2004). A Fuzzy Enabled Edge Network Device Simulation Software Application (Masters Thesis, California State University, Chico).
+
 ## Features
 
 - Generation of a routing dataset with configurable number of devices and congestion probability
