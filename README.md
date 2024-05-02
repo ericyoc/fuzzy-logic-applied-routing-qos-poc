@@ -2,7 +2,7 @@
 
 This Python code demonstrates the application of fuzzy logic to enhance network traffic routing with Quality of Service (QoS) considerations. The code simulates a network scenario and compares the performance of conventional routing (no fuzzy logic applied) with fuzzy logic enhanced routing.
 
-## Motivating Work
+## Motivating Article and Related Work
 
 E. W. Yocam, "Evolution on the network edge: intelligent devices," in IT Professional, vol. 5, no. 2, pp. 32-36, March-April 2003, doi: 10.1109/MITP.2003.1191790.
 
