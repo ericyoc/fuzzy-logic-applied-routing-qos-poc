@@ -5,7 +5,6 @@ This Python code demonstrates the application of fuzzy logic to enhance network 
 ## Motivating Article and Related Work
 
 E. W. Yocam, "Evolution on the network edge: intelligent devices," in IT Professional, vol. 5, no. 2, pp. 32-36, March-April 2003, doi: 10.1109/MITP.2003.1191790.
-
 https://ieeexplore.ieee.org/abstract/document/1191790
 
 Yocam, E. W. (2004). A Fuzzy Enabled Edge Network Device Simulation Software Application (Masters Thesis, California State University, Chico).
