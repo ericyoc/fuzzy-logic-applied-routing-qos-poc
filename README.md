@@ -25,7 +25,7 @@ if 'Very_High' in [n_term, clr_term] or 'Positive_Big' in dn_term:
 
 The code simulates network traffic routing for a specified number of trials and generates tables to present the results. The tables compare the performance of conventional routing (no fuzzy logic applied) with fuzzy logic enhanced routing.
 
-!{}(https://github.com/ericyoc/fuzzy-logic-applied-routing-qos/blob/main/fuzzy_logic_applied_with_and_without_qos.jpg)
+![](https://github.com/ericyoc/fuzzy-logic-applied-routing-qos/blob/main/fuzzy_logic_applied_with_and_without_qos.jpg)
 
 ## Explanation
 
