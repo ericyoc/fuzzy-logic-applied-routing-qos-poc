@@ -55,3 +55,6 @@ This code is inspired by the concepts of fuzzy logic and its application in netw
 ## License
 
 This code is released under the [MIT License](LICENSE).
+
+## Disclaimer
+This repository is intended for educational and research purposes.
